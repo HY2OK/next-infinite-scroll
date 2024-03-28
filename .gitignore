@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+
+# Next.js build output
+.next
+
+# Visual Studio Code에서 생성된 파일
+.vscode
+
+# IDE 설정 파일
+.idea
+
+# macOS에서 생성된 파일
+.DS_Store
+
+# npm debug log 파일
+npm-debug.log*
+
+# Yarn 로그 파일
+yarn-debug.log*
+yarn-error.log*
